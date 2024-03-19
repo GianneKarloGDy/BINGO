@@ -61,3 +61,9 @@ let counter = 5;
 while (B = false || I == false || N == false || G == false  || O == false){
     newNumber(75);
 }
+//for (counter = 10; counter >= 0; counter--){
+//    console.log(Current counter is ${counter});
+//    if (counter == 2 )break;
+
+//    newNumber(75);
+//}
